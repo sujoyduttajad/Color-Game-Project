@@ -1,10 +1,11 @@
 # Color-Game-Project
 A JavaScript color guessing game.
-This is a guessing game where you have to guess color according to the RGB() color code displayed. It has two modes EASY and HARD choose which ever you want. 
-The EASY mode consists of 3 boxes to choose the color.
-The HARD will have 6 boxes to choose from. 
+This is a guessing game built with JavaScript where users have to guess the correct color from a color pallete which matches to the RGB() color code displayed. It has two modes EASY and HARD choose which ever you want. 
+The EASY mode consists of 3 boxes so the probability is high in choosing the correct color.
+The HARD will have 6 boxes and hence the probability is less in choosing the correct color.
+ALL THE BEST!!!
 
-#Vinila JavaScript, HTML5, CSS3 is used and it is responsive also.
+#Tech Stack ---- JavaScript, HTML5, CSS3 is used and it is responsive also.
 
 #Future Scope
 Next I am planning  to upgrade to difficult levels and add a database to show case the scores. 
