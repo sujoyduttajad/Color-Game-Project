@@ -5,8 +5,8 @@ The EASY mode consists of 3 boxes so the probability is high in choosing the cor
 The HARD will have 6 boxes and hence the probability is less in choosing the correct color.
 ALL THE BEST!!!
 
-# To Play the Game click 
-[here](https://cranky-meninsky-8035ee.netlify.app)
+# To Play the Game click below -
+[https://cranky-meninsky-8035ee.netlify.app](https://cranky-meninsky-8035ee.netlify.app)
 
 # Tech Stack ---- 
 * JavaScript 
